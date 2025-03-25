@@ -1,0 +1,2 @@
+# Ignora la cartella Build e i file generati da CMake
+Exercise2/Build/

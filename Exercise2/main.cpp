@@ -34,7 +34,7 @@ int main()
 	double media=0.0;
 	std::string scrittura="result.txt";
 	std::ofstream ofs(scrittura);
-
+	double x=1.1;
 		 
 	for(int k=0;k<N;k+=1)
 	{
@@ -48,7 +48,7 @@ int main()
 		ofs << k + 1 << std::scientific << std::setprecision(16) << "    " << media << std::endl;
 
 		//std::cout<<"Media "<<media<<"\n"<<std::endl;
-		
+		// ciaoaoaooaoaooaoaooaoaooaoa
 	}
 	ofs.close();
 	
